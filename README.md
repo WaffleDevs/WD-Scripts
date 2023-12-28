@@ -1,3 +1,3 @@
-# WD Catan
+# WD Scripts
 
-My rendition of Settlers of Catan. Based off of Colonist.io's default rules.
+WIP project to implement simple scripts in the browser
